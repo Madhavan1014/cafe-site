@@ -9,7 +9,8 @@ body{
 .header{
     width: 100%;
     height: 70vh;
-    background-image: url(images/header_bg.jpg);
+    background-color: white;
+    /* background-image: url(images/header_bg.jpg); */
     background-position: center;
     background-size: cover;
 }
@@ -17,8 +18,8 @@ body{
     display: flex;
 }
 .logo{
-    height: 75px;
-    width: 75px;
+    /* height: 40px;
+    width: 200px; */
     cursor: pointer;
 }
 
